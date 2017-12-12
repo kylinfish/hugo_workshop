@@ -1,0 +1,25 @@
+baseurl = "https://example.com"
+languageCode = "zh-TW"
+defaultContentLanguage = "zh"
+title = "我的履歷網站"
+theme = "hugo-theme-dream"
+
+copyright = "Copyright (c) 2017, WinYu; all rights reserved."
+
+# enableRobotsTXT = true
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+[params]
+  author = "Win Yu"
+  motto = "工程師的思維世界"
+   description = "XXX"
+   avatar = "/img/avatar.jpg"
+
+   email = "win@pixnet.tw"
+   github = "kylinfish"
+   linkedin = "win-yu-0537717b"
+   codepen = "somebody"
+   stackoverflow = "somebody"

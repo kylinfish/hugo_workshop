@@ -1,0 +1,12 @@
+desc = [
+  "Win",
+  "學歷： XXX",
+  "科系： XXX",
+  "興趣： XXX, XXX",
+  "技能： C++, JAVA, HTML, PHP",
+  "座右銘： 今日事今日畢",
+  "Project:",
+  " - 網頁設計 - 履歷網站 Demo site ",
+  " - 資料庫 - String-based 簡易資料庫實作 ",
+  " - 資料探勘 - Decision Tree 演算法實作 ",
+]
